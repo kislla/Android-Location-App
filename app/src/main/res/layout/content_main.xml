@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.edwardk.locapp.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:text="Location:\nAltitude:\nSpeed:\nAccuracy:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/GpsCoordination"
+        android:layout_weight="0.07"
+        android:gravity="left"
+        android:freezesText="true"
+        android:layout_below="@+id/button_show_gps_location"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="BLE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_BLECodeScanner"
+        android:background="@android:color/holo_green_light"
+        android:layout_marginEnd="44dp"
+        android:layout_alignBaseline="@+id/button_QrCodeScanner"
+        android:layout_alignBottom="@+id/button_QrCodeScanner"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Send Location to The Server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_send_data_to_server"
+        android:background="@android:color/holo_purple"
+        android:layout_below="@+id/GpsCoordination"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:text="Map Location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_move_to_map_activity"
+        android:background="@android:color/holo_orange_light"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="18dp" />
+
+    <Button
+        android:text="QR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_QrCodeScanner"
+        android:background="@android:color/holo_red_dark"
+        android:layout_marginStart="44dp"
+        android:layout_above="@+id/button_move_to_map_activity"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="47dp" />
+
+    <Button
+        android:text="GPS location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_show_gps_location"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="28dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Find Your Location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Share Location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_share_location"
+        android:background="@android:color/holo_blue_bright"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/button_send_data_to_server"
+        android:layout_alignEnd="@+id/button_send_data_to_server"
+        android:layout_alignStart="@+id/button_send_data_to_server" />
+
+</RelativeLayout>

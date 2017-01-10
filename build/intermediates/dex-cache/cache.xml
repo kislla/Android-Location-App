@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_e31f7767243e4a90fe3e8c8dd2498c2e8747b678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_867e42f145a2a7334a2f9327df25ed3c241638ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_a16d47911e0a76941db5563210d63ec1c7eefca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_0aa23d10be1ede15bb42bb9f827952ae1cd55519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_eeffdc375d568f5f14f400c34b30ec9274c3dd4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_5b5f4054f6d9669c66facd7fdfeee182a0dc760b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_7a14cf9bf07945fc437fdc202911b8bbe2c0a631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.18_93d2db2de3a292d8b1d5aab2f989acbc6432ba96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_2f6703c62d1331439e7dee00f0d8d9ab72001390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6b8365f3e081c5339cf5db35f957c95706331a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_8b5f7343a22792fd3a55a523cd229cf4b9966646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.4.0_fc43781d204c760c161d92a846fb3fc554536a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d3a3fdd0a9c348abdb97f951014d0581a9e3f800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_b6e8e2971dd10a5361bf9100743da4d998339240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_0840756bf200e98ea61642d2e58b0f891dfe7107/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_0ae8c1567200265b6922cab3f9335b541a2a2476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_f852771fd2985715c991f44d6cd118e4f60a0560/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_0d6d7b4393185cdbaec4a34ca1d83539b3c9ff67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_c96079d7ec81563e0581bc30854c3765dbe80de6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_35924b11af87a1e590f048bea85cfd8812b7b8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_ce9283ba005bf2ce2595a02d9fb25a6ad8e43325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_8b4e117ca50c9213948ff25b7ae187329a8aa324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_0e83b8b0f28bfef56786eb1623ebb552c97faa89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_32929598a8adf85aad5e00d42830ea3f620cf068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_86836c1860ab3889e2745e30e4054602bdcd9064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_2c6cecb95e9a340ca4997b4e4a34eb4954d1483f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e7a4a655b1a49fa4aec1a7901076e6c88f533747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_fa836b39fb3a137ff71de98eb8ad4e348f93fd81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_16f54225c3cae925521bee5cef00b87300017644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_c3aed4ef87ca8757294f96b3019b7182224fa70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_1da7a12ab4056af3d69682c5a758d3b7fe2c28f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e7c4ec278f38a1cf2d35b629557e1d0277a6cd9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_df03e0755494d1f4b7a57575f60ff3540120c6d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_4382ba675a6d23f14ad4243c5b6c1356b6860844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b898cac313169fc2d39df0fccf05da81ed39fdf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_45055b8a588d72e1ed1d4caf0c256b462065cc00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cafcd0b93d7e425d1b8e62750326bf6c0e5778e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a5109e9756bafd63050d88b6696aecb9aef26ec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-core-1.8.4_8df8ac80eddd81f1c76a5528eee21f78bef00f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_9edf5f34ebf187a8610e6fc97e30a08374514195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_7c940aa40ec1ae27e0a11eec704f34ff93bfd666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_552941a99b169f41e46933730d8cc5d0a9401416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_da397bcfcfd7045aafd2233a337854ebdfe5bad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_ffa5fba067a459857292a2f6292e9e023ea45d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_eb56e12d7e9e7adcbc01075c518d90218922267f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_c486c03e9d714409e2acb4a9ad82ff2d6d4ad9cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_3c88e8bd73db038f995d6c1bba5f7fcd1eae0d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d643a9de65056702d95356edd41b5b6e451d6561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_cea5b6e0feb9ec1f73ac3a6a69aedb4da83c1a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_c98806fb78e2c5ef13a853d38c5b79438a205ec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_7b48bcf389d5ea29668f6cb2664f93f6da429dc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-zxing-1.8.4_3c64ea28b98049ced728352bae81650e05ccff37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_d7f5ca6f8d0fef88232a8531ac02b73e9d73984f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_996cf1b3241ab252bd9fde450847fe0654f92b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76702cb8bc1cc219a549a12dc5132a62801f7135">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98cfd4180fb8e7273dee59f2c5631bfa2c7a4008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_0e5d03db5941147ffd0b5a6e7d1bab460c15c091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_286eaeeefafea69dae282c827fdd325046618903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_0db1adabcafe7c64c44f18c12c7c4f05235575d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_a8a1cd8c52fb451c4138c29e8744c43f0b42c361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_84e3e9814db91bc47cedc34a68717b1021ccce9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_e71b9154b47e850cb4b59a23c1f33c35b7b2ccb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_b3e488d5b555c4915a1455f71860007599a9aac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_ec0126fe41edbf850741180ca5a7bfa23de77e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_59119a4c2149bd90f9e3cd0f5b458c5c417085e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_9ef3d2b45fd70915dadf5e58a0bd3eaad36c0c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_b75d63d740ec0e4400a7d76176f04b2f645a3455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_9e562dacdc7132a4e19a074c3a52fa69b568cbcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_cf6502de2c5ccab06379b9962b9374bb50e6b7be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_22b638fe2f306c029ae70562050a8f82affefbff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_99a964e4de6b2c8956207d303cbad8cca1fd689b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_b2a63665c60a61150b0a8998c6956698f3f44bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_f068cb8622742068dd1c55465fd7aeaa15c1decb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_d26e29442bc201c8628e062b450f4318b31cd6e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_49b020ef0b65498cb43826953df0c3aeb09b7f52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_c7282a93b46cc77efba65b746eb5f37b948d92f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_3028c47a65e73c72a0921beeb26abb5d61abfa2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15030615fa9f52333bf55bdfffb6da822906bed1">
+        <dex dex="/Users/edwardk/Downloads/AndroidLocationApp1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a4a4928d2585ffd8c3cfde1163615c4708b10a20/classes.dex" />
+    </item>
+
+</items>
