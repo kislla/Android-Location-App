@@ -23,7 +23,7 @@ function createLocation()
 	$date = $_POST["date"];
 
 	
-	$query = " Insert into gpsdata(latitude,longitude,altitude,model,date) values ('$latitude','$longitude','$altitude','$model','$date');";
+	$query = " Insert into gps(latitude,longitude,altitude,model,date) values ('$latitude','$longitude','$altitude','$model','$date');";
 	
 	mysqli_query($connect, $query) or die (mysqli_error($connect));
 	mysqli_close($connect);

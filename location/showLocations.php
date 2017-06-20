@@ -1,23 +1,15 @@
 <?php
 
-#return arr of jsoon that present the DB.
 
-if($_SERVER["REQUEST_METHOD"]=="POST")
-{
-	include 'connection.php';
+include 'connection.php';
 	showLocation();
-}
-else
-{
-	echo "this page can be seen only with POST request. <br>
-	 please use 'location app' for see the data. ";
-}
+
 
 function showLocation()
 {
 	global $connect;
 	
-	$query = " Select * FROM gpsdata; ";
+	$query = " Select * FROM gps; ";
 	
 	$result = mysqli_query($connect, $query);
 	$number_of_rows = mysqli_num_rows($result);
