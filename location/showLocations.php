@@ -10,8 +10,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 else
 {
 	echo "this page can be seen only with POST request. <br>
-	 please use 'location app' for see the data. <br>
-	 dont forget, yehuda livnoni is the king.";
+	 please use 'location app' for see the data. ";
 }
 
 function showLocation()
